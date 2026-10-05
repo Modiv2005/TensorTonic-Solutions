@@ -26,6 +26,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Image Rotation (Nearest Neighbor) | Rotate a 2D image around its center with nearest-neighbor sampling and defined out-of-bounds handling. | https://www.tensortonic.com/problems/image-rotation-nearest |
 | Matrix Transpose | Implement matrix transpose in NumPy without built-in transpose helpers, preserving rectangular shapes and the original input. | https://www.tensortonic.com/problems/matrix-transpose |
 | Mean, Median, Mode | Calculate the mean, median, and deterministic mode of a numeric collection, including tied frequencies. | https://www.tensortonic.com/problems/mean-median-mode |
+| Model Versioning | Select a production model by highest accuracy, then lower latency, then the most recent timestamp. | https://www.tensortonic.com/problems/model-versioning-basics |
 | Sample Variance & Standard Deviation | Compute sample variance and standard deviation with Bessel's correction from a numeric collection. | https://www.tensortonic.com/problems/sample-var-std |
 | Sobel Edge Detection | Detect image edges by applying horizontal and vertical Sobel kernels and combining gradient magnitudes. | https://www.tensortonic.com/problems/sobel-edge-detection |
 
